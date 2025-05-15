@@ -75,7 +75,8 @@ I'm a **Salesforce Developer** with over **1 year of hands-on experience** in bu
 
 ## 🌟 Trailblazer Profile
 
-[![Trailhead](https://img.shields.io/badge/Trailhead_Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)]([https://trailblazer.me/id/your-trailhead-id](https://www.salesforce.com/trailblazer/u9m3anetwfx74cp1p2))  
+[![Trailhead](https://img.shields.io/badge/Trailhead_Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/u9m3anetwfx74cp1p2)
+
 🎖️ Ranger | 100+ Badges | 90,000+ Points
 
 ---
