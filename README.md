@@ -1,5 +1,5 @@
 # Sai Karthik Mashetty  
-**Salesforce Consultant | LWC Specialist | Integration Expert**  
+**Salesforce Consultant | 4X Certified | Agentforce| Apex & LWC Developer | Admin | Service Cloud & FSL Experience | REST API Integrations | Trailhead Ranger**
 
 📞 **Contact:** (+91) 9642570343 | 📧 **Email:** [karthikmashetty.dev@gmail.com](mailto:karthikmashetty.dev@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/karthik-mashetty-7b189a131](https://linkedin.com/in/karthik-mashetty-7b189a131)  
@@ -45,7 +45,6 @@ Salesforce Developer with **1+ year of experience** in designing, developing, an
 ### **1. StoryLine, Inc – Experience Cloud Portal**  
 ✔ **Tech Stack:** LWC, SSO (Connected App), Apex Triggers  
 ✔ **Key Result:** Streamlined onboarding with a **custom LWC registration form**.  
-🔗 *[View Demo](https://myportfolio-f-dev-ed.develop.my.site.com/portfolio/s/)*  
 
 ### **2. Avaya – Field Service Automation**  
 ✔ **Tech Stack:** FSL, Service Cloud, Flow Automation  
