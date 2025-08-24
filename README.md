@@ -6,7 +6,7 @@
 
 ## 📇 About Me
 
-I'm a **Salesforce Consultant & Developer** with over **1 year of experience** in delivering scalable, high-performance Salesforce solutions.  
+I'm a **Salesforce Consultant & Developer** with over **1.5+ year of experience** in delivering scalable, high-performance Salesforce solutions.  
 I specialize in **Apex, Lightning Web Components (LWC), Flows**, and **REST API integrations**, with a strong focus on **automation, UX/UI design, and AI-powered solutions**.
 
 💡 Recently, I built and deployed **Agentforce-powered AI Agents** for Experience Cloud, enhancing **self-service automation** and **real-time customer support**.  
@@ -30,11 +30,11 @@ I specialize in **Apex, Lightning Web Components (LWC), Flows**, and **REST API 
 
 ## 📜 Certifications
 
-![Agentforce](https://img.shields.io/badge/Agentforce_Consultant-1E90FF?style=flat-square&logo=salesforce)  
-![PD1](https://img.shields.io/badge/Platform_Developer_I-blue?style=flat-square&logo=salesforce)  
 ![Admin](https://img.shields.io/badge/Salesforce_Administrator-green?style=flat-square&logo=salesforce)  
+![PD1](https://img.shields.io/badge/Platform_Developer_I-blue?style=flat-square&logo=salesforce)  
 ![Service Cloud](https://img.shields.io/badge/Service_Cloud_Consultant-orange?style=flat-square&logo=salesforce)  
 ![FSL](https://img.shields.io/badge/Field_Service_Consultant-purple?style=flat-square&logo=salesforce)  
+![Agentforce](https://img.shields.io/badge/Agentforce_Specialist-1E90FF?style=flat-square&logo=salesforce)  
 
 ---
 
