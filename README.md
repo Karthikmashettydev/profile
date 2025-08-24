@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sai Karthik Mashetty
 
-**Salesforce Consultant | 5X Certified (Agentforce, PD1, Admin, Service Cloud, FSL) | Apex & LWC Developer | Experience Cloud | REST API Integrations | Trailhead Ranger**
+**Salesforce Consultant | 5X Certified (Agentforce, PD1, Admin, Service Cloud, FSL) | Apex & LWC Developer | Experience Cloud | REST API Integrations | Trailhead Double Star Ranger**
 
 ---
 
@@ -88,7 +88,7 @@ I specialize in **Apex, Lightning Web Components (LWC), Flows**, and **REST API 
 
 [![Trailhead](https://img.shields.io/badge/Trailhead_Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/u9m3anetwfx74cp1p2)  
 
-🎖️ Ranger | 200+ Badges | 100,000+ Points  
+🎖️ Double Star | 200+ Badges | 100,000+ Points  
 
 ---
 
